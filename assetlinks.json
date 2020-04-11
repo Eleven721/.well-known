@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.stgame.slots.cash",
+               "sha256_cert_fingerprints": ["03:78:57:52:2C:F8:9D:8B:E6:14:67:07:84:F6:70:4E:9F:D4:74:6F:93:00:05:E3:66:F3:02:5B:E1:24:6F:49"] }
+}]
